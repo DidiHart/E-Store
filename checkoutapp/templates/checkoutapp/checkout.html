@@ -1,0 +1,67 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+    <div class="checkout">
+      <div class="panel panel-default checkout__panel">
+        <div class="panel-heading checkout__header">
+          <h1 class="panel-title checkout__panel-title">
+            <span>Submit Your Order</span>
+          </h1>
+        </div>
+        <form method="POST" style="padding-bottom: 0px;">
+          {% csrf_token %}
+          <div class="panel-body checkout__panel-body">
+            {% if form.errors %}
+            <p class="validation-summary-errors">Please enter a correct user name and password.</p>
+            {% endif %}
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_subject">First Name</label>
+              {{form.first_name}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">Middle Name</label>
+              {{form.middle_name}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">Last Name</label>
+              {{form.last_name}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">Email</label>
+              {{form.email}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">Address Line 1</label>
+              {{form.address_line_1}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">Address Line 2</label>
+              {{form.address_line_2}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">City</label>
+              {{form.city}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">State</label>
+              {{form.state}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">Country</label>
+              {{form.country}}
+            </div>
+            <div class="form-group">
+              <label class="checkout__input-label" for="id_detail">Zip Code</label>
+              {{form.zip_code}}
+            </div>
+          </div>
+          <div class="panel-footer">
+            <div class="checkout__flex-container">
+              <a class="btn btn-sm checkout__button" href="{% url 'cartapp:cart_detail' %}">Cancel </a>
+              <button class="btn btn-sm checkout__button" type="submit">Submit Order</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,3 @@
+manage.py loaddata catalogueapp/static/catalogueapp/data/brand.json
+manage.py loaddata catalogueapp/static/catalogueapp/data/category.json
+manage.py loaddata catalogueapp/static/catalogueapp/data/product.json

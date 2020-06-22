@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <Name>bmesproject</Name>
+    <RootNamespace>bmesproject</RootNamespace>
+    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>9ba4e9a1-8a3d-4f65-8e9a-2665fab3a87e</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <ProjectTypeGuids>{5F0BE9CA-D677-4A4D-8806-6076C0FAAD37};{349c5851-65df-11da-9384-00065b846f21};{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <StartupFile>manage.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <WebBrowserUrl>http://localhost</WebBrowserUrl>
+    <LaunchProvider>Django launcher</LaunchProvider>
+    <DjangoSettingsModule>bmesproject.settings</DjangoSettingsModule>
+    <OutputPath>.</OutputPath>
+    <SuppressCollectPythonCloudServiceFiles>true</SuppressCollectPythonCloudServiceFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="app\bmes_context_service.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\forms.py" />
+    <Compile Include="app\models.py" />
+    <Compile Include="app\tests.py" />
+    <Compile Include="app\views.py" />
+    <Compile Include="app\__init__.py" />
+    <Compile Include="app\migrations\__init__.py" />
+    <Compile Include="cartapp\admin.py" />
+    <Compile Include="cartapp\apps.py" />
+    <Compile Include="cartapp\cart_service.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cartapp\migrations\__init__.py" />
+    <Compile Include="cartapp\models.py" />
+    <Compile Include="cartapp\tests.py" />
+    <Compile Include="cartapp\urls.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cartapp\views.py" />
+    <Compile Include="cartapp\__init__.py" />
+    <Compile Include="catalogueapp\admin.py" />
+    <Compile Include="catalogueapp\apps.py" />
+    <Compile Include="catalogueapp\catalogue_service.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="catalogueapp\forms.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="catalogueapp\migrations\__init__.py" />
+    <Compile Include="catalogueapp\models.py" />
+    <Compile Include="catalogueapp\tests.py" />
+    <Compile Include="catalogueapp\urls.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="catalogueapp\views.py" />
+    <Compile Include="catalogueapp\__init__.py" />
+    <Compile Include="checkoutapp\admin.py" />
+    <Compile Include="checkoutapp\apps.py" />
+    <Compile Include="checkoutapp\checkout_service.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="checkoutapp\forms.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="checkoutapp\migrations\__init__.py" />
+    <Compile Include="checkoutapp\models.py" />
+    <Compile Include="checkoutapp\tests.py" />
+    <Compile Include="checkoutapp\urls.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="checkoutapp\views.py" />
+    <Compile Include="checkoutapp\__init__.py" />
+    <Compile Include="locationapp\admin.py" />
+    <Compile Include="locationapp\apps.py" />
+    <Compile Include="locationapp\migrations\__init__.py" />
+    <Compile Include="locationapp\models.py" />
+    <Compile Include="locationapp\tests.py" />
+    <Compile Include="locationapp\views.py" />
+    <Compile Include="locationapp\__init__.py" />
+    <Compile Include="manage.py" />
+    <Compile Include="bmesproject\__init__.py" />
+    <Compile Include="bmesproject\settings.py" />
+    <Compile Include="bmesproject\urls.py" />
+    <Compile Include="bmesproject\wsgi.py" />
+    <Compile Include="orderapp\admin.py" />
+    <Compile Include="orderapp\apps.py" />
+    <Compile Include="orderapp\migrations\__init__.py" />
+    <Compile Include="orderapp\models.py" />
+    <Compile Include="orderapp\tests.py" />
+    <Compile Include="orderapp\views.py" />
+    <Compile Include="orderapp\__init__.py" />
+    <Compile Include="userapp\admin.py" />
+    <Compile Include="userapp\apps.py" />
+    <Compile Include="userapp\forms.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="userapp\migrations\__init__.py" />
+    <Compile Include="userapp\models.py" />
+    <Compile Include="userapp\tests.py" />
+    <Compile Include="userapp\views.py" />
+    <Compile Include="userapp\__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="app\" />
+    <Folder Include="app\migrations\" />
+    <Folder Include="app\static\" />
+    <Folder Include="app\static\app\" />
+    <Folder Include="app\static\app\content\" />
+    <Folder Include="app\static\app\content\scss\" />
+    <Folder Include="app\static\app\content\scss\app\" />
+    <Folder Include="app\static\app\content\scss\app\partials\" />
+    <Folder Include="app\static\app\fonts\" />
+    <Folder Include="app\static\app\images\" />
+    <Folder Include="app\static\app\images\productimages\" />
+    <Folder Include="app\static\app\images\productimages\main\" />
+    <Folder Include="app\static\app\images\productimages\thumbnails\" />
+    <Folder Include="app\static\app\scripts\" />
+    <Folder Include="app\templates\" />
+    <Folder Include="app\templates\app\" />
+    <Folder Include="bmesproject\" />
+    <Folder Include="cartapp\" />
+    <Folder Include="cartapp\migrations\" />
+    <Folder Include="cartapp\static\" />
+    <Folder Include="cartapp\static\cartapp\" />
+    <Folder Include="cartapp\static\cartapp\content\" />
+    <Folder Include="cartapp\static\cartapp\content\scss\" />
+    <Folder Include="cartapp\static\cartapp\content\scss\partials\" />
+    <Folder Include="cartapp\templates\" />
+    <Folder Include="cartapp\templates\cartapp\" />
+    <Folder Include="cartapp\templates\cartapp\partials\" />
+    <Folder Include="catalogueapp\" />
+    <Folder Include="catalogueapp\migrations\" />
+    <Folder Include="catalogueapp\static\" />
+    <Folder Include="catalogueapp\static\catalogueapp\" />
+    <Folder Include="catalogueapp\static\catalogueapp\content\" />
+    <Folder Include="catalogueapp\static\catalogueapp\content\scss\" />
+    <Folder Include="catalogueapp\static\catalogueapp\content\scss\partials\" />
+    <Folder Include="catalogueapp\static\catalogueapp\data\" />
+    <Folder Include="catalogueapp\templates\" />
+    <Folder Include="catalogueapp\templates\catalogueapp\" />
+    <Folder Include="catalogueapp\templates\catalogueapp\partials\" />
+    <Folder Include="checkoutapp\" />
+    <Folder Include="checkoutapp\migrations\" />
+    <Folder Include="checkoutapp\static\" />
+    <Folder Include="checkoutapp\static\checkoutapp\" />
+    <Folder Include="checkoutapp\static\checkoutapp\content\" />
+    <Folder Include="checkoutapp\static\checkoutapp\content\scss\" />
+    <Folder Include="checkoutapp\static\checkoutapp\content\scss\partials\" />
+    <Folder Include="checkoutapp\templates\" />
+    <Folder Include="checkoutapp\templates\checkoutapp\" />
+    <Folder Include="locationapp\" />
+    <Folder Include="locationapp\migrations\" />
+    <Folder Include="locationapp\templates\" />
+    <Folder Include="locationapp\templates\locationapp\" />
+    <Folder Include="orderapp\" />
+    <Folder Include="orderapp\migrations\" />
+    <Folder Include="orderapp\templates\" />
+    <Folder Include="orderapp\templates\orderapp\" />
+    <Folder Include="userapp\" />
+    <Folder Include="userapp\migrations\" />
+    <Folder Include="userapp\templates\" />
+    <Folder Include="userapp\templates\userapp\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="app\static\app\content\bmes.css" />
+    <Content Include="app\static\app\content\scss\app\app.scss" />
+    <Content Include="app\static\app\content\scss\app\partials\layout.scss" />
+    <Content Include="app\static\app\content\scss\bmes.scss" />
+    <Content Include="app\static\app\images\productimages\main\040m-x-040m-non-slip-granite-tiles.jpg" />
+    <Content Include="app\static\app\images\productimages\main\2-gang-switch-cover-window-plate.jpg" />
+    <Content Include="app\static\app\images\productimages\main\8-holes-panel-boxbreaker-box.jpg" />
+    <Content Include="app\static\app\images\productimages\main\acrylic-paint-brush.jpg" />
+    <Content Include="app\static\app\images\productimages\main\apollo-back-wall-modern-curved-bath.jpg" />
+    <Content Include="app\static\app\images\productimages\main\appleby-1700-lh-roll-top-shower-bath.jpg" />
+    <Content Include="app\static\app\images\productimages\main\arezzo-round-matt-black.jpg" />
+    <Content Include="app\static\app\images\productimages\main\blind-rivets-500s.jpg" />
+    <Content Include="app\static\app\images\productimages\main\c-channel.jpg" />
+    <Content Include="app\static\app\images\productimages\main\circuit-breaker.jpg" />
+    <Content Include="app\static\app\images\productimages\main\code-1g-fd30-fire-door.png" />
+    <Content Include="app\static\app\images\productimages\main\code-20g-fd30-fire-door.jpg" />
+    <Content Include="app\static\app\images\productimages\main\code-25g-fd30-fire-door.jpg" />
+    <Content Include="app\static\app\images\productimages\main\concrete-nutralizer.jpg" />
+    <Content Include="app\static\app\images\productimages\main\concrete-putty.jpg" />
+    <Content Include="app\static\app\images\productimages\main\conduit-pvc-d-25mm.jpg" />
+    <Content Include="app\static\app\images\productimages\main\convenience-outlet-2-gang.jpg" />
+    <Content Include="app\static\app\images\productimages\main\cotswold-oak-internal-cottage-door-unfinished.jpg" />
+    <Content Include="app\static\app\images\productimages\main\electrical-tape-big.jpg" />
+    <Content Include="app\static\app\images\productimages\main\flat-wall-latex.jpg" />
+    <Content Include="app\static\app\images\productimages\main\flexible-conduit-d-25mm.jpg" />
+    <Content Include="app\static\app\images\productimages\main\grinding-disc-4.jpg" />
+    <Content Include="app\static\app\images\productimages\main\intumescent-pipe-collar.jpg" />
+    <Content Include="app\static\app\images\productimages\main\junction-box-pvc-deep-type.jpg" />
+    <Content Include="app\static\app\images\productimages\main\latex-paint-hansa-yellow.jpg" />
+    <Content Include="app\static\app\images\productimages\main\latex-paint-raw-siena.jpg" />
+    <Content Include="app\static\app\images\productimages\main\latex-paint-thalo-green.jpg" />
+    <Content Include="app\static\app\images\productimages\main\latex-paint-tholudine-red.jpg" />
+    <Content Include="app\static\app\images\productimages\main\led-flourescent-lamp.jpg" />
+    <Content Include="app\static\app\images\productimages\main\light-fiber-cement-board-14-x-4-x-8.jpg" />
+    <Content Include="app\static\app\images\productimages\main\metal-cutting-disc-14.jpg" />
+    <Content Include="app\static\app\images\productimages\main\metal-furring-05mm-12mm-x-38mm-x-5m.jpg" />
+    <Content Include="app\static\app\images\productimages\main\mode-ellis-freestanding-bath.jpg" />
+    <Content Include="app\static\app\images\productimages\main\oak-4-panel-35mm.jpg" />
+    <Content Include="app\static\app\images\productimages\main\orchard-l-shaped-left-handed-shower-bath.jpg" />
+    <Content Include="app\static\app\images\productimages\main\orchard-square-edge-single-ended-bath.jpg" />
+    <Content Include="app\static\app\images\productimages\main\paint-thinner.jpg" />
+    <Content Include="app\static\app\images\productimages\main\primer-paintred-oxide.jpg" />
+    <Content Include="app\static\app\images\productimages\main\recessed-pinlight.jpg" />
+    <Content Include="app\static\app\images\productimages\main\rectangular-ducting.jpg" />
+    <Content Include="app\static\app\images\productimages\main\ring-seal-soil-stack-complete-kit.jpg" />
+    <Content Include="app\static\app\images\productimages\main\rio-oval-inset-basin-1th-520-x-460mm.jpg" />
+    <Content Include="app\static\app\images\productimages\main\roller-paint-brush-pan.jpg" />
+    <Content Include="app\static\app\images\productimages\main\rondo-wall-hung-small-cloakroom-basin.jpg" />
+    <Content Include="app\static\app\images\productimages\main\roper-rhodes-esta-460mm-cloakroom-basin.jpg" />
+    <Content Include="app\static\app\images\productimages\main\round-modern-chrome-basin-bottle-trap.jpg" />
+    <Content Include="app\static\app\images\productimages\main\rs-pro-galvanised-steel-round-tube.jpg" />
+    <Content Include="app\static\app\images\productimages\main\rs-pro-pvc-flexible-tubing-transparent.jpg" />
+    <Content Include="app\static\app\images\productimages\main\sand-paper.jpg" />
+    <Content Include="app\static\app\images\productimages\main\semi-gloss-latex-elastomeric.jpg" />
+    <Content Include="app\static\app\images\productimages\main\tex-screw.jpg" />
+    <Content Include="app\static\app\images\productimages\main\thin-electrical-wire.jpg" />
+    <Content Include="app\static\app\images\productimages\main\tile-adhesive.jpg" />
+    <Content Include="app\static\app\images\productimages\main\tile-cutting-disc-4.jpg" />
+    <Content Include="app\static\app\images\productimages\main\tile-grout.jpg" />
+    <Content Include="app\static\app\images\productimages\main\traditional-luxury-exposed-free.jpg" />
+    <Content Include="app\static\app\images\productimages\main\utility-box-pvc-deep-type.jpg" />
+    <Content Include="app\static\app\images\productimages\main\wall-angle.jpg" />
+    <Content Include="app\static\app\images\productimages\main\wc-basin-pedesta.jpg" />
+    <Content Include="app\static\app\images\productimages\main\welding-rod.jpg" />
+    <Content Include="app\static\app\images\productimages\main\white-painted-pine-top-hung-roof-window.jpg" />
+    <Content Include="cartapp\static\cartapp\content\scss\cartapp.scss" />
+    <Content Include="cartapp\static\cartapp\content\scss\partials\cart_detail.scss" />
+    <Content Include="cartapp\static\cartapp\content\scss\partials\cart_summary_widget.scss" />
+    <Content Include="cartapp\templates\cartapp\cart_detail.html" />
+    <Content Include="cartapp\templates\cartapp\partials\cart_summary_widget.html" />
+    <Content Include="catalogueapp\static\catalogueapp\content\scss\catalogueapp.scss" />
+    <Content Include="catalogueapp\static\catalogueapp\content\scss\partials\brand.scss" />
+    <Content Include="catalogueapp\static\catalogueapp\content\scss\partials\category.scss" />
+    <Content Include="catalogueapp\static\catalogueapp\content\scss\partials\index.scss" />
+    <Content Include="catalogueapp\static\catalogueapp\content\scss\partials\pagination.scss" />
+    <Content Include="catalogueapp\static\catalogueapp\content\scss\partials\product-list-item.scss" />
+    <Content Include="catalogueapp\static\catalogueapp\content\scss\partials\product-list.scss" />
+    <Content Include="catalogueapp\static\catalogueapp\data\brand.json" />
+    <Content Include="catalogueapp\static\catalogueapp\data\category.json" />
+    <Content Include="catalogueapp\static\catalogueapp\data\CommandsForLoadingData.txt" />
+    <Content Include="catalogueapp\static\catalogueapp\data\product.json" />
+    <Content Include="catalogueapp\templates\catalogueapp\index.html" />
+    <Content Include="catalogueapp\templates\catalogueapp\partials\brand.html" />
+    <Content Include="catalogueapp\templates\catalogueapp\partials\category.html" />
+    <Content Include="catalogueapp\templates\catalogueapp\partials\pagination.html" />
+    <Content Include="catalogueapp\templates\catalogueapp\partials\product_list.html" />
+    <Content Include="catalogueapp\templates\catalogueapp\partials\product_list_item.html" />
+    <Content Include="checkoutapp\static\checkoutapp\content\scss\checkoutapp.scss" />
+    <Content Include="checkoutapp\static\checkoutapp\content\scss\partials\checkout.scss" />
+    <Content Include="checkoutapp\static\checkoutapp\content\scss\partials\receipt.scss" />
+    <Content Include="checkoutapp\templates\checkoutapp\checkout.html" />
+    <Content Include="checkoutapp\templates\checkoutapp\receipt.html" />
+    <None Include="dev-bmes-westeurope-app - Web Deploy.pubxml" />
+    <Content Include="locationapp\templates\locationapp\index.html" />
+    <Content Include="orderapp\templates\orderapp\index.html" />
+    <Content Include="requirements.txt" />
+    <Content Include="db.sqlite3" />
+    <Content Include="app\static\app\content\bootstrap.css" />
+    <Content Include="app\static\app\content\bootstrap.min.css" />
+    <Content Include="app\static\app\content\site.css" />
+    <Content Include="app\static\app\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="app\static\app\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="app\static\app\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="app\static\app\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="app\static\app\scripts\bootstrap.js" />
+    <Content Include="app\static\app\scripts\bootstrap.min.js" />
+    <Content Include="app\static\app\scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="app\static\app\scripts\jquery-1.10.2.js" />
+    <Content Include="app\static\app\scripts\jquery-1.10.2.min.js" />
+    <Content Include="app\static\app\scripts\jquery-1.10.2.min.map" />
+    <Content Include="app\static\app\scripts\jquery.validate-vsdoc.js" />
+    <Content Include="app\static\app\scripts\jquery.validate.js" />
+    <Content Include="app\static\app\scripts\jquery.validate.min.js" />
+    <Content Include="app\static\app\scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="app\static\app\scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="app\static\app\scripts\modernizr-2.6.2.js" />
+    <Content Include="app\static\app\scripts\respond.js" />
+    <Content Include="app\static\app\scripts\respond.min.js" />
+    <Content Include="app\static\app\scripts\_references.js" />
+    <Content Include="app\templates\app\layout.html" />
+    <Content Include="app\templates\app\login.html" />
+    <Content Include="app\templates\app\loginpartial.html" />
+    <Content Include="userapp\templates\userapp\index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.html">
+      <SubType>WebBrowser</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>env</Id>
+      <Version>3.6</Version>
+      <Description>env (Python 3.6 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Django.targets" />
+  <!-- Specify pre- and post-build commands in the BeforeBuild and 
+       AfterBuild targets below. -->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <AutoAssignPort>True</AutoAssignPort>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

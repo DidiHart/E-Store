@@ -1,0 +1,1710 @@
+[
+{
+  "model": "catalogueapp.product",
+  "pk": 1,
+  "fields": {
+    "created_date": "2019-07-26T11:03:43.830Z",
+    "modified_date": "2019-07-26T14:50:03.115Z",
+    "name": "Concrete nutralizer",
+    "slug": "concrete-nutralizer",
+    "description": "Concrete nutralizer",
+    "meta_description": "Concrete nutralizer",
+    "meta_keywords": "Concrete nutralizer",
+    "sku": "Concrete nutralizer",
+    "model": "Concrete nutralizer",
+    "price": "250.00",
+    "old_price": "0.00",
+    "image_url": "concrete-nutralizer.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 11,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 2,
+  "fields": {
+    "created_date": "2019-07-26T11:04:29.379Z",
+    "modified_date": "2019-07-26T14:49:47.809Z",
+    "name": "Concrete putty",
+    "slug": "concrete-putty",
+    "description": "Concrete putty",
+    "meta_description": "Concrete putty",
+    "meta_keywords": "Concrete putty",
+    "sku": "Concrete putty",
+    "model": "Concrete putty",
+    "price": "390.00",
+    "old_price": "0.00",
+    "image_url": "concrete-putty.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 3,
+  "fields": {
+    "created_date": "2019-07-26T11:05:13.114Z",
+    "modified_date": "2019-07-26T14:49:33.578Z",
+    "name": "Flat wall latex",
+    "slug": "flat-wall-latex",
+    "description": "Flat wall latex",
+    "meta_description": "Flat wall latex",
+    "meta_keywords": "Flat wall latex",
+    "sku": "Flat wall latex",
+    "model": "Flat wall latex",
+    "price": "520.00",
+    "old_price": "0.00",
+    "image_url": "flat-wall-latex.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 4,
+  "fields": {
+    "created_date": "2019-07-26T11:06:00.483Z",
+    "modified_date": "2019-07-26T14:49:16.786Z",
+    "name": "Semi-gloss latex, elastomeric",
+    "slug": "semi-gloss-latex-elastomeric",
+    "description": "Semi-gloss latex, elastomeric",
+    "meta_description": "Semi-gloss latex, elastomeric",
+    "meta_keywords": "Semi-gloss latex, elastomeric",
+    "sku": "Semi-gloss latex, elastomeric",
+    "model": "Semi-gloss latex, elastomeric",
+    "price": "630.00",
+    "old_price": "0.00",
+    "image_url": "semi-gloss-latex-elastomeric.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 15,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 5,
+  "fields": {
+    "created_date": "2019-07-26T11:06:47.386Z",
+    "modified_date": "2019-07-26T14:49:02.929Z",
+    "name": "Paint thinner",
+    "slug": "paint-thinner",
+    "description": "Paint thinner",
+    "meta_description": "Paint thinner",
+    "meta_keywords": "Paint thinner",
+    "sku": "Paint thinner",
+    "model": "Paint thinner",
+    "price": "280.00",
+    "old_price": "0.00",
+    "image_url": "paint-thinner.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 14,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 6,
+  "fields": {
+    "created_date": "2019-07-26T11:07:38.902Z",
+    "modified_date": "2019-07-26T14:48:47.206Z",
+    "name": "Sand paper",
+    "slug": "sand-paper",
+    "description": "Sand paper",
+    "meta_description": "Sand paper",
+    "meta_keywords": "Sand paper",
+    "sku": "Sand paper",
+    "model": "Sand paper",
+    "price": "210.00",
+    "old_price": "0.00",
+    "image_url": "sand-paper.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 7,
+  "fields": {
+    "created_date": "2019-07-26T11:11:24.606Z",
+    "modified_date": "2019-07-26T14:48:31.865Z",
+    "name": "Acrylic paint brush",
+    "slug": "acrylic-paint-brush",
+    "description": "Acrylic paint brush",
+    "meta_description": "Acrylic paint brush",
+    "meta_keywords": "Acrylic paint brush",
+    "sku": "Acrylic paint brush",
+    "model": "Acrylic paint brush",
+    "price": "140.00",
+    "old_price": "0.00",
+    "image_url": "acrylic-paint-brush.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 10,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 8,
+  "fields": {
+    "created_date": "2019-07-26T11:12:20.192Z",
+    "modified_date": "2019-07-26T14:48:12.846Z",
+    "name": "Roller paint brush with pan",
+    "slug": "roller-paint-brush-pan",
+    "description": "Roller paint brush with pan",
+    "meta_description": "Roller paint brush with pan",
+    "meta_keywords": "Roller paint brush with pan",
+    "sku": "Roller paint brush with pan",
+    "model": "Roller paint brush with pan",
+    "price": "130.00",
+    "old_price": "0.00",
+    "image_url": "roller-paint-brush-pan.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 16,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 9,
+  "fields": {
+    "created_date": "2019-07-26T11:13:01.782Z",
+    "modified_date": "2019-07-26T14:47:57.625Z",
+    "name": "Latex paint, Hansa yellow",
+    "slug": "latex-paint-hansa-yellow",
+    "description": "Latex paint, Hansa yellow",
+    "meta_description": "Latex paint, Hansa yellow",
+    "meta_keywords": "Latex paint, Hansa yellow",
+    "sku": "Latex paint, Hansa yellow",
+    "model": "Latex paint, Hansa yellow",
+    "price": "170.00",
+    "old_price": "0.00",
+    "image_url": "latex-paint-hansa-yellow.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 11,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 10,
+  "fields": {
+    "created_date": "2019-07-26T11:13:43.221Z",
+    "modified_date": "2019-07-26T14:47:42.363Z",
+    "name": "Latex paint, Tholudine red",
+    "slug": "latex-paint-tholudine-red",
+    "description": "Latex paint, Tholudine red",
+    "meta_description": "Latex paint, Tholudine red",
+    "meta_keywords": "Latex paint, Tholudine red",
+    "sku": "Latex paint, Tholudine red",
+    "model": "Latex paint, Tholudine red",
+    "price": "170.00",
+    "old_price": "0.00",
+    "image_url": "latex-paint-tholudine-red.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 5,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 11,
+  "fields": {
+    "created_date": "2019-07-26T11:15:53.453Z",
+    "modified_date": "2019-07-26T14:47:28.569Z",
+    "name": "Latex paint, Thalo green",
+    "slug": "latex-paint-thalo-green",
+    "description": "Latex paint, Thalo green",
+    "meta_description": "Latex paint, Thalo green",
+    "meta_keywords": "Latex paint, Thalo green",
+    "sku": "Latex paint, Thalo green",
+    "model": "Latex paint, Thalo green",
+    "price": "170.00",
+    "old_price": "0.00",
+    "image_url": "latex-paint-thalo-green.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 5,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 12,
+  "fields": {
+    "created_date": "2019-07-26T11:16:45.416Z",
+    "modified_date": "2019-07-26T14:46:38.501Z",
+    "name": "Latex paint, Raw siena",
+    "slug": "latex-paint-raw-siena",
+    "description": "Latex paint, Raw siena",
+    "meta_description": "Latex paint, Raw siena",
+    "meta_keywords": "Latex paint, Raw siena",
+    "sku": "Latex paint, Raw siena",
+    "model": "Latex paint, Raw siena",
+    "price": "170.00",
+    "old_price": "0.00",
+    "image_url": "latex-paint-raw-siena.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 15,
+    "product_status": 0,
+    "categories": [
+      9
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 13,
+  "fields": {
+    "created_date": "2019-07-26T11:18:14.466Z",
+    "modified_date": "2019-07-26T14:46:20.723Z",
+    "name": "0.40m x 0.40m non-slip granite tiles",
+    "slug": "040m-x-040m-non-slip-granite-tiles",
+    "description": "0.40m x 0.40m non-slip granite tiles",
+    "meta_description": "0.40m x 0.40m non-slip granite tiles",
+    "meta_keywords": "0.40m x 0.40m non-slip granite tiles",
+    "sku": "0.40m x 0.40m non-slip granite tiles",
+    "model": "0.40m x 0.40m non-slip granite tiles",
+    "price": "160.00",
+    "old_price": "0.00",
+    "image_url": "040m-x-040m-non-slip-granite-tiles.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 46,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 14,
+  "fields": {
+    "created_date": "2019-07-26T11:18:49.391Z",
+    "modified_date": "2019-07-26T14:46:03.259Z",
+    "name": "Tile adhesive",
+    "slug": "tile-adhesive",
+    "description": "Tile adhesive",
+    "meta_description": "Tile adhesive",
+    "meta_keywords": "Tile adhesive",
+    "sku": "Tile adhesive",
+    "model": "Tile adhesive",
+    "price": "240.00",
+    "old_price": "0.00",
+    "image_url": "tile-adhesive.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 17,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 15,
+  "fields": {
+    "created_date": "2019-07-26T11:19:27.981Z",
+    "modified_date": "2019-07-26T14:45:48.078Z",
+    "name": "Tile grout",
+    "slug": "tile-grout",
+    "description": "Tile grout",
+    "meta_description": "Tile grout",
+    "meta_keywords": "Tile grout",
+    "sku": "Tile grout",
+    "model": "Tile grout",
+    "price": "85.00",
+    "old_price": "0.00",
+    "image_url": "tile-grout.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 29,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 16,
+  "fields": {
+    "created_date": "2019-07-26T11:20:16.988Z",
+    "modified_date": "2019-07-26T14:45:31.875Z",
+    "name": "Tile cutting disc, 4\"",
+    "slug": "tile-cutting-disc-4",
+    "description": "Tile cutting disc, 4\"",
+    "meta_description": "Tile cutting disc, 4\"",
+    "meta_keywords": "Tile cutting disc, 4\"",
+    "sku": "Tile cutting disc, 4\"",
+    "model": "Tile cutting disc, 4\"",
+    "price": "500.00",
+    "old_price": "0.00",
+    "image_url": "tile-cutting-disc-4.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 19,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 17,
+  "fields": {
+    "created_date": "2019-07-26T11:22:03.618Z",
+    "modified_date": "2019-07-26T14:45:17.160Z",
+    "name": "Metal cutting disc, 14\"",
+    "slug": "metal-cutting-disc-14",
+    "description": "Metal cutting disc, 14\"",
+    "meta_description": "Metal cutting disc, 14\"",
+    "meta_keywords": "Metal cutting disc, 14\"",
+    "sku": "Metal cutting disc, 14\"",
+    "model": "Metal cutting disc, 14\"",
+    "price": "300.00",
+    "old_price": "0.00",
+    "image_url": "metal-cutting-disc-14.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 20,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 18,
+  "fields": {
+    "created_date": "2019-07-26T11:23:08.874Z",
+    "modified_date": "2019-07-26T14:45:01.393Z",
+    "name": "Grinding disc, 4\"",
+    "slug": "grinding-disc-4",
+    "description": "Grinding disc, 4\"",
+    "meta_description": "Grinding disc, 4\"",
+    "meta_keywords": "Grinding disc, 4\"",
+    "sku": "Grinding disc, 4\"",
+    "model": "Grinding disc, 4\"",
+    "price": "55.00",
+    "old_price": "0.00",
+    "image_url": "grinding-disc-4.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 15,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 19,
+  "fields": {
+    "created_date": "2019-07-26T11:23:49.412Z",
+    "modified_date": "2019-07-26T14:44:43.859Z",
+    "name": "Primer paint/red oxide",
+    "slug": "primer-paintred-oxide",
+    "description": "Primer paint/red oxide",
+    "meta_description": "Primer paint/red oxide",
+    "meta_keywords": "Primer paint/red oxide",
+    "sku": "Primer paint/red oxide",
+    "model": "Primer paint/red oxide",
+    "price": "290.00",
+    "old_price": "0.00",
+    "image_url": "primer-paintred-oxide.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 14,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 20,
+  "fields": {
+    "created_date": "2019-07-26T11:24:30.577Z",
+    "modified_date": "2019-07-26T14:44:27.283Z",
+    "name": "Welding rod",
+    "slug": "welding-rod",
+    "description": "Welding rod",
+    "meta_description": "Welding rod",
+    "meta_keywords": "Welding rod",
+    "sku": "Welding rod",
+    "model": "Welding rod",
+    "price": "140.00",
+    "old_price": "0.00",
+    "image_url": "welding-rod.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 14,
+    "product_status": 0,
+    "categories": [
+      10
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 21,
+  "fields": {
+    "created_date": "2019-07-26T11:30:29.083Z",
+    "modified_date": "2019-07-26T14:44:10.090Z",
+    "name": "WC, Basin & Pedesta",
+    "slug": "wc-basin-pedesta",
+    "description": "WC, Basin & Pedesta",
+    "meta_description": "WC, Basin & Pedesta",
+    "meta_keywords": "WC, Basin & Pedesta",
+    "sku": "WC, Basin & Pedesta",
+    "model": "WC, Basin & Pedesta",
+    "price": "295.00",
+    "old_price": "0.00",
+    "image_url": "wc-basin-pedesta.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 6,
+    "product_status": 0,
+    "categories": [
+      6
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 22,
+  "fields": {
+    "created_date": "2019-07-26T11:46:38.726Z",
+    "modified_date": "2019-07-26T14:43:55.106Z",
+    "name": "Light fiber cement board, 1/4\" x 4\" x 8'",
+    "slug": "light-fiber-cement-board-14-x-4-x-8",
+    "description": "Light fiber cement board, 1/4\" x 4\" x 8'",
+    "meta_description": "Light fiber cement board, 1/4\" x 4\" x 8'",
+    "meta_keywords": "Light fiber cement board, 1/4\" x 4\" x 8'",
+    "sku": "Light fiber cement board, 1/4\" x 4\" x 8'",
+    "model": "Light fiber cement board, 1/4\" x 4\" x 8'",
+    "price": "590.00",
+    "old_price": "0.00",
+    "image_url": "light-fiber-cement-board-14-x-4-x-8.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 14,
+    "product_status": 0,
+    "categories": [
+      3
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 23,
+  "fields": {
+    "created_date": "2019-07-26T11:47:14.689Z",
+    "modified_date": "2019-07-26T14:43:38.724Z",
+    "name": "Metal furring, 0.5mm, 12mm x 38mm x 5m",
+    "slug": "metal-furring-05mm-12mm-x-38mm-x-5m",
+    "description": "Metal furring, 0.5mm, 12mm x 38mm x 5m",
+    "meta_description": "Metal furring, 0.5mm, 12mm x 38mm x 5m",
+    "meta_keywords": "Metal furring, 0.5mm, 12mm x 38mm x 5m",
+    "sku": "Metal furring, 0.5mm, 12mm x 38mm x 5m",
+    "model": "Metal furring, 0.5mm, 12mm x 38mm x 5m",
+    "price": "180.00",
+    "old_price": "0.00",
+    "image_url": "metal-furring-05mm-12mm-x-38mm-x-5m.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      3
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 24,
+  "fields": {
+    "created_date": "2019-07-26T11:48:18.743Z",
+    "modified_date": "2019-07-26T14:43:21.504Z",
+    "name": "C- channel",
+    "slug": "c-channel",
+    "description": "C- channel",
+    "meta_description": "C- channel",
+    "meta_keywords": "C- channel",
+    "sku": "C- channel",
+    "model": "C- channel",
+    "price": "210.00",
+    "old_price": "0.00",
+    "image_url": "c-channel.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      3
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 25,
+  "fields": {
+    "created_date": "2019-07-26T11:48:57.428Z",
+    "modified_date": "2019-07-26T14:43:05.530Z",
+    "name": "Wall angle",
+    "slug": "wall-angle",
+    "description": "Wall angle",
+    "meta_description": "Wall angle",
+    "meta_keywords": "Wall angle",
+    "sku": "Wall angle",
+    "model": "Wall angle",
+    "price": "75.00",
+    "old_price": "0.00",
+    "image_url": "wall-angle.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 6,
+    "product_status": 0,
+    "categories": [
+      3
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 26,
+  "fields": {
+    "created_date": "2019-07-26T11:49:36.008Z",
+    "modified_date": "2019-07-26T14:42:47.522Z",
+    "name": "Blind rivets (500's)",
+    "slug": "blind-rivets-500s",
+    "description": "Blind rivets (500's)",
+    "meta_description": "Blind rivets (500's)",
+    "meta_keywords": "Blind rivets (500's)",
+    "sku": "Blind rivets (500's)",
+    "model": "Blind rivets (500's)",
+    "price": "290.00",
+    "old_price": "0.00",
+    "image_url": "blind-rivets-500s.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 4,
+    "product_status": 0,
+    "categories": [
+      3
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 27,
+  "fields": {
+    "created_date": "2019-07-26T11:53:03.202Z",
+    "modified_date": "2019-07-26T14:42:30.043Z",
+    "name": "Tex screw",
+    "slug": "tex-screw",
+    "description": "Tex screw",
+    "meta_description": "Tex screw",
+    "meta_keywords": "Tex screw",
+    "sku": "Tex screw",
+    "model": "Tex screw",
+    "price": "3.00",
+    "old_price": "0.00",
+    "image_url": "tex-screw.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      3
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 28,
+  "fields": {
+    "created_date": "2019-07-26T11:53:58.114Z",
+    "modified_date": "2019-07-26T14:42:13.708Z",
+    "name": "Conduit, PVC, D-25mm",
+    "slug": "conduit-pvc-d-25mm",
+    "description": "Conduit, PVC, D-25mm",
+    "meta_description": "Conduit, PVC, D-25mm",
+    "meta_keywords": "Conduit, PVC, D-25mm",
+    "sku": "Conduit, PVC, D-25mm",
+    "model": "Conduit, PVC, D-25mm",
+    "price": "78.00",
+    "old_price": "0.00",
+    "image_url": "conduit-pvc-d-25mm.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 29,
+  "fields": {
+    "created_date": "2019-07-26T11:54:38.043Z",
+    "modified_date": "2019-07-26T14:41:18.470Z",
+    "name": "Flexible conduit, D-25mm",
+    "slug": "flexible-conduit-d-25mm",
+    "description": "Flexible conduit, D-25mm",
+    "meta_description": "Flexible conduit, D-25mm",
+    "meta_keywords": "Flexible conduit, D-25mm",
+    "sku": "Flexible conduit, D-25mm",
+    "model": "Flexible conduit, D-25mm",
+    "price": "900.00",
+    "old_price": "0.00",
+    "image_url": "flexible-conduit-d-25mm.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 30,
+  "fields": {
+    "created_date": "2019-07-26T11:56:13.972Z",
+    "modified_date": "2019-07-26T14:41:00.284Z",
+    "name": "THIN electrical wire",
+    "slug": "thin-electrical-wire",
+    "description": "THHN electrical wire",
+    "meta_description": "THHN electrical wire",
+    "meta_keywords": "THHN electrical wire",
+    "sku": "THHN electrical wire",
+    "model": "THHN electrical wire",
+    "price": "2970.00",
+    "old_price": "0.00",
+    "image_url": "thin-electrical-wire.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 9,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 31,
+  "fields": {
+    "created_date": "2019-07-26T11:56:48.840Z",
+    "modified_date": "2019-07-26T14:40:44.413Z",
+    "name": "Utility box, PVC, deep type",
+    "slug": "utility-box-pvc-deep-type",
+    "description": "Utility box, PVC, deep type",
+    "meta_description": "Utility box, PVC, deep type",
+    "meta_keywords": "Utility box, PVC, deep type",
+    "sku": "Utility box, PVC, deep type",
+    "model": "Utility box, PVC, deep type",
+    "price": "30.00",
+    "old_price": "0.00",
+    "image_url": "utility-box-pvc-deep-type.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 9,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 32,
+  "fields": {
+    "created_date": "2019-07-26T11:57:19.604Z",
+    "modified_date": "2019-07-26T14:40:28.005Z",
+    "name": "Junction box, PVC, deep type",
+    "slug": "junction-box-pvc-deep-type",
+    "description": "Junction box, PVC, deep type",
+    "meta_description": "Junction box, PVC, deep type",
+    "meta_keywords": "Junction box, PVC, deep type",
+    "sku": "Junction box, PVC, deep type",
+    "model": "Junction box, PVC, deep type",
+    "price": "35.00",
+    "old_price": "0.00",
+    "image_url": "junction-box-pvc-deep-type.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 33,
+  "fields": {
+    "created_date": "2019-07-26T11:57:51.612Z",
+    "modified_date": "2019-07-26T14:40:11.669Z",
+    "name": "Electrical tape, big",
+    "slug": "electrical-tape-big",
+    "description": "Electrical tape, big",
+    "meta_description": "Electrical tape, big",
+    "meta_keywords": "Electrical tape, big",
+    "sku": "Electrical tape, big",
+    "model": "Electrical tape, big",
+    "price": "38.00",
+    "old_price": "0.00",
+    "image_url": "electrical-tape-big.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 12,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 34,
+  "fields": {
+    "created_date": "2019-07-26T11:58:36.618Z",
+    "modified_date": "2019-07-26T14:39:54.642Z",
+    "name": "Convenience outlet, 2-gang",
+    "slug": "convenience-outlet-2-gang",
+    "description": "Convenience outlet, 2-gang",
+    "meta_description": "Convenience outlet, 2-gang",
+    "meta_keywords": "Convenience outlet, 2-gang",
+    "sku": "Convenience outlet, 2-gang",
+    "model": "Convenience outlet, 2-gang",
+    "price": "185.00",
+    "old_price": "0.00",
+    "image_url": "convenience-outlet-2-gang.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 13,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 35,
+  "fields": {
+    "created_date": "2019-07-26T12:00:08.342Z",
+    "modified_date": "2019-07-26T14:39:39.126Z",
+    "name": "LED flourescent lamp",
+    "slug": "led-flourescent-lamp",
+    "description": "LED flourescent lamp, recessed, with housing & diffusers",
+    "meta_description": "LED flourescent lamp",
+    "meta_keywords": "LED flourescent lamp",
+    "sku": "LED flourescent lamp",
+    "model": "LED flourescent lamp",
+    "price": "1450.00",
+    "old_price": "0.00",
+    "image_url": "led-flourescent-lamp.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 36,
+  "fields": {
+    "created_date": "2019-07-26T12:03:49.201Z",
+    "modified_date": "2019-07-26T14:39:23.074Z",
+    "name": "Recessed pinlight,",
+    "slug": "recessed-pinlight",
+    "description": "Recessed pinlight,",
+    "meta_description": "Recessed pinlight,",
+    "meta_keywords": "Recessed pinlight,",
+    "sku": "Recessed pinlight,",
+    "model": "Recessed pinlight",
+    "price": "396.00",
+    "old_price": "0.00",
+    "image_url": "recessed-pinlight.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 10,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 37,
+  "fields": {
+    "created_date": "2019-07-26T12:10:43.376Z",
+    "modified_date": "2019-07-26T14:39:04.378Z",
+    "name": "2 gang switch, with cover, window plate",
+    "slug": "2-gang-switch-cover-window-plate",
+    "description": "2 gang switch, with cover, window plate",
+    "meta_description": "2 gang switch, with cover, window plate",
+    "meta_keywords": "2 gang switch, with cover, window plate",
+    "sku": "2 gang switch, with cover, window plate",
+    "model": "2 gang switch, with cover, window plate",
+    "price": "185.00",
+    "old_price": "0.00",
+    "image_url": "2-gang-switch-cover-window-plate.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 10,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 38,
+  "fields": {
+    "created_date": "2019-07-26T12:11:17.248Z",
+    "modified_date": "2019-07-26T14:38:44.900Z",
+    "name": "8 holes panel box/breaker box",
+    "slug": "8-holes-panel-boxbreaker-box",
+    "description": "8 holes panel box/breaker box",
+    "meta_description": "8 holes panel box/breaker box",
+    "meta_keywords": "8 holes panel box/breaker box",
+    "sku": "8 holes panel box/breaker box",
+    "model": "8 holes panel box/breaker box",
+    "price": "1100.00",
+    "old_price": "0.00",
+    "image_url": "8-holes-panel-boxbreaker-box.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 39,
+  "fields": {
+    "created_date": "2019-07-26T12:12:02.554Z",
+    "modified_date": "2019-07-26T14:38:12.293Z",
+    "name": "Circuit breaker",
+    "slug": "circuit-breaker",
+    "description": "Circuit breaker, 60A",
+    "meta_description": "Circuit breaker",
+    "meta_keywords": "Circuit breaker",
+    "sku": "Circuit breaker",
+    "model": "Circuit breaker",
+    "price": "330.00",
+    "old_price": "0.00",
+    "image_url": "circuit-breaker.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 10,
+    "product_status": 0,
+    "categories": [
+      4
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 40,
+  "fields": {
+    "created_date": "2019-07-26T12:26:02.091Z",
+    "modified_date": "2019-07-26T14:37:55.247Z",
+    "name": "Rio Oval Inset Basin 1TH - 520 x 460mm",
+    "slug": "rio-oval-inset-basin-1th-520-x-460mm",
+    "description": "Rio Oval Inset Basin 1TH - 520 x 460mm",
+    "meta_description": "Rio Oval Inset Basin 1TH - 520 x 460mm",
+    "meta_keywords": "Rio Oval Inset Basin 1TH - 520 x 460mm",
+    "sku": "Rio Oval Inset Basin 1TH - 520 x 460mm",
+    "model": "Rio Oval Inset Basin 1TH - 520 x 460mm",
+    "price": "39.95",
+    "old_price": "0.00",
+    "image_url": "rio-oval-inset-basin-1th-520-x-460mm.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      6
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 41,
+  "fields": {
+    "created_date": "2019-07-26T12:26:54.367Z",
+    "modified_date": "2019-07-26T14:37:37.032Z",
+    "name": "Roper Rhodes Esta 460mm Cloakroom Basin",
+    "slug": "roper-rhodes-esta-460mm-cloakroom-basin",
+    "description": "Roper Rhodes Esta 460mm Cloakroom Basin - ESB45",
+    "meta_description": "Roper Rhodes Esta 460mm Cloakroom Basin",
+    "meta_keywords": "Roper Rhodes Esta 460mm Cloakroom Basin",
+    "sku": "Roper Rhodes Esta 460mm Cloakroom Basin",
+    "model": "Roper Rhodes Esta 460mm Cloakroom Basin",
+    "price": "120.70",
+    "old_price": "0.00",
+    "image_url": "roper-rhodes-esta-460mm-cloakroom-basin.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      6
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 42,
+  "fields": {
+    "created_date": "2019-07-26T12:27:40.416Z",
+    "modified_date": "2019-07-26T14:37:15.774Z",
+    "name": "Rondo Wall Hung Small Cloakroom Basin",
+    "slug": "rondo-wall-hung-small-cloakroom-basin",
+    "description": "Rondo Wall Hung Small Cloakroom Basin R/H 1TH - 365 x 180mm",
+    "meta_description": "Rondo Wall Hung Small Cloakroom Basin",
+    "meta_keywords": "Rondo Wall Hung Small Cloakroom Basin",
+    "sku": "Rondo Wall Hung Small Cloakroom Basin",
+    "model": "Rondo Wall Hung Small Cloakroom Basin",
+    "price": "44.95",
+    "old_price": "0.00",
+    "image_url": "rondo-wall-hung-small-cloakroom-basin.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 5,
+    "product_status": 0,
+    "categories": [
+      6
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 43,
+  "fields": {
+    "created_date": "2019-07-26T12:29:08.619Z",
+    "modified_date": "2019-07-26T14:36:57.855Z",
+    "name": "Appleby 1700 LH Roll Top Shower Bath",
+    "slug": "appleby-1700-lh-roll-top-shower-bath",
+    "description": "Appleby 1700 LH Roll Top Shower Bath with Screen + Chrome Leg Set",
+    "meta_description": "Appleby 1700 LH Roll Top Shower Bath",
+    "meta_keywords": "Appleby 1700 LH Roll Top Shower Bath",
+    "sku": "Appleby 1700 LH Roll Top Shower Bath",
+    "model": "Appleby 1700 LH Roll Top Shower Bath",
+    "price": "499.95",
+    "old_price": "0.00",
+    "image_url": "appleby-1700-lh-roll-top-shower-bath.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      7
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 44,
+  "fields": {
+    "created_date": "2019-07-26T12:29:47.211Z",
+    "modified_date": "2019-07-26T14:36:40.054Z",
+    "name": "Orchard square edge single ended bath",
+    "slug": "orchard-square-edge-single-ended-bath",
+    "description": "Orchard square edge single ended bath",
+    "meta_description": "Orchard square edge single ended bath",
+    "meta_keywords": "Orchard square edge single ended bath",
+    "sku": "Orchard square edge single ended bath",
+    "model": "Orchard square edge single ended bath",
+    "price": "107.20",
+    "old_price": "0.00",
+    "image_url": "orchard-square-edge-single-ended-bath.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 9,
+    "product_status": 0,
+    "categories": [
+      7
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 45,
+  "fields": {
+    "created_date": "2019-07-26T12:30:39.338Z",
+    "modified_date": "2019-07-26T14:36:21.776Z",
+    "name": "Mode Ellis freestanding bath",
+    "slug": "mode-ellis-freestanding-bath",
+    "description": "Mode Ellis freestanding bath 1800 x 870",
+    "meta_description": "Mode Ellis freestanding bath",
+    "meta_keywords": "Mode Ellis freestanding bath",
+    "sku": "Mode Ellis freestanding bath",
+    "model": "Mode Ellis freestanding bath",
+    "price": "359.20",
+    "old_price": "0.00",
+    "image_url": "mode-ellis-freestanding-bath.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 5,
+    "product_status": 0,
+    "categories": [
+      7
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 46,
+  "fields": {
+    "created_date": "2019-07-26T12:31:25.454Z",
+    "modified_date": "2019-07-26T14:36:01.216Z",
+    "name": "Apollo Back To Wall Modern Curved Bath",
+    "slug": "apollo-back-wall-modern-curved-bath",
+    "description": "Apollo Back To Wall Modern Curved Bath (1700 x 800mm)",
+    "meta_description": "Apollo Back To Wall Modern Curved Bath",
+    "meta_keywords": "Apollo Back To Wall Modern Curved Bath",
+    "sku": "Apollo Back To Wall Modern Curved Bath",
+    "model": "Apollo Back To Wall Modern Curved Bath",
+    "price": "599.95",
+    "old_price": "0.00",
+    "image_url": "apollo-back-wall-modern-curved-bath.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 11,
+    "product_status": 0,
+    "categories": [
+      7
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 47,
+  "fields": {
+    "created_date": "2019-07-26T12:32:17.864Z",
+    "modified_date": "2019-07-26T14:35:42.271Z",
+    "name": "Orchard L shaped left handed shower bath",
+    "slug": "orchard-l-shaped-left-handed-shower-bath",
+    "description": "Orchard L shaped left handed shower bath",
+    "meta_description": "Orchard L shaped left handed shower bath",
+    "meta_keywords": "Orchard L shaped left handed shower bath",
+    "sku": "Orchard L shaped left handed shower bath",
+    "model": "Orchard L shaped left handed shower bath",
+    "price": "179.00",
+    "old_price": "0.00",
+    "image_url": "orchard-l-shaped-left-handed-shower-bath.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 6,
+    "product_status": 0,
+    "categories": [
+      7
+    ],
+    "brands": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 48,
+  "fields": {
+    "created_date": "2019-07-26T12:36:15.234Z",
+    "modified_date": "2019-07-27T16:05:59.958Z",
+    "name": "Traditional Luxury Exposed Free Standing Bath Drai",
+    "slug": "traditional-luxury-exposed-free-standing-bath-drai",
+    "description": "Traditional Luxury Exposed Free Standing Bath Drainage Kit - Chrome",
+    "meta_description": "Traditional Luxury Exposed Free Standing Bath Drainage Kit",
+    "meta_keywords": "Traditional Luxury Exposed Free Standing Bath Drainage Kit",
+    "sku": "Traditional Luxury Exposed Free Standing Bath Drainage Kit",
+    "model": "Traditional Luxury Exposed Free Standing Bath Drainage Kit",
+    "price": "79.95",
+    "old_price": "0.00",
+    "image_url": "traditional-luxury-exposed-free.jpg",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 49,
+  "fields": {
+    "created_date": "2019-07-26T12:36:55.957Z",
+    "modified_date": "2019-07-26T14:35:03.899Z",
+    "name": "RS PRO PVC Flexible Tubing, transparent",
+    "slug": "rs-pro-pvc-flexible-tubing-transparent",
+    "description": "RS PRO PVC Flexible Tubing, transparent, 11.5mm External Diameter, 25m Long Reinforced, 28mm Bend Radius",
+    "meta_description": "RS PRO PVC Flexible Tubing, transparent",
+    "meta_keywords": "RS PRO PVC Flexible Tubing, transparent",
+    "sku": "RS PRO PVC Flexible Tubing, transparent",
+    "model": "RS PRO PVC Flexible Tubing, transparent",
+    "price": "26.81",
+    "old_price": "0.00",
+    "image_url": "rs-pro-pvc-flexible-tubing-transparent.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 9,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 50,
+  "fields": {
+    "created_date": "2019-07-26T12:37:37.689Z",
+    "modified_date": "2019-07-26T14:34:47.733Z",
+    "name": "Intumescent pipe collar",
+    "slug": "intumescent-pipe-collar",
+    "description": "Intumescent pipe collar",
+    "meta_description": "Intumescent pipe collar",
+    "meta_keywords": "Intumescent pipe collar",
+    "sku": "Intumescent pipe collar",
+    "model": "Intumescent pipe collar",
+    "price": "10.60",
+    "old_price": "0.00",
+    "image_url": "intumescent-pipe-collar.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 51,
+  "fields": {
+    "created_date": "2019-07-26T12:38:21.991Z",
+    "modified_date": "2019-07-26T14:34:31.845Z",
+    "name": "Round Modern Chrome Basin Bottle Trap",
+    "slug": "round-modern-chrome-basin-bottle-trap",
+    "description": "Round Modern Chrome Basin Bottle Trap + Tube to Floor Pipe Set",
+    "meta_description": "Round Modern Chrome Basin Bottle Trap",
+    "meta_keywords": "Round Modern Chrome Basin Bottle Trap",
+    "sku": "Round Modern Chrome Basin Bottle Trap",
+    "model": "Round Modern Chrome Basin Bottle Trap",
+    "price": "59.95",
+    "old_price": "0.00",
+    "image_url": "round-modern-chrome-basin-bottle-trap.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 52,
+  "fields": {
+    "created_date": "2019-07-26T12:39:03.429Z",
+    "modified_date": "2019-07-26T14:34:04.188Z",
+    "name": "RS PRO Galvanised Steel Round Tube",
+    "slug": "rs-pro-galvanised-steel-round-tube",
+    "description": "RS PRO Galvanised Steel Round Tube, 1000mm Length, Dia. 48.8mm",
+    "meta_description": "RS PRO Galvanised Steel Round Tube",
+    "meta_keywords": "RS PRO Galvanised Steel Round Tube",
+    "sku": "RS PRO Galvanised Steel Round Tube",
+    "model": "RS PRO Galvanised Steel Round Tube",
+    "price": "15.20",
+    "old_price": "0.00",
+    "image_url": "rs-pro-galvanised-steel-round-tube.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 53,
+  "fields": {
+    "created_date": "2019-07-26T12:39:57.967Z",
+    "modified_date": "2019-07-26T14:33:46.271Z",
+    "name": "Rectangular Ducting",
+    "slug": "rectangular-ducting",
+    "description": "Rectangular Ducting 180mm X 90mm - Flat Channel 1 Mtr",
+    "meta_description": "Rectangular Ducting",
+    "meta_keywords": "Rectangular Ducting",
+    "sku": "Rectangular Ducting",
+    "model": "Rectangular Ducting",
+    "price": "17.02",
+    "old_price": "0.00",
+    "image_url": "rectangular-ducting.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 9,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 54,
+  "fields": {
+    "created_date": "2019-07-26T12:40:37.988Z",
+    "modified_date": "2019-07-26T14:33:26.848Z",
+    "name": "Ring Seal Soil Stack Complete Kit",
+    "slug": "ring-seal-soil-stack-complete-kit",
+    "description": "Ring Seal Soil Stack Complete Kit - With Offsets - 110mm Black",
+    "meta_description": "Ring Seal Soil Stack Complete Kit",
+    "meta_keywords": "Ring Seal Soil Stack Complete Kit",
+    "sku": "Ring Seal Soil Stack Complete Kit",
+    "model": "Ring Seal Soil Stack Complete Kit",
+    "price": "93.84",
+    "old_price": "0.00",
+    "image_url": "ring-seal-soil-stack-complete-kit.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 55,
+  "fields": {
+    "created_date": "2019-07-26T12:41:16.214Z",
+    "modified_date": "2019-07-27T16:03:55.926Z",
+    "name": "Arezzo Round Matt Black Modern Basin Bottle Trap",
+    "slug": "arezzo-round-matt-black-modern-basin-bottle-trap",
+    "description": "Arezzo Round Matt Black Modern Basin Bottle Trap",
+    "meta_description": "Arezzo Round Matt Black Modern Basin Bottle Trap",
+    "meta_keywords": "Arezzo Round Matt Black Modern Basin Bottle Trap",
+    "sku": "Arezzo Round Matt Black Modern Basin Bottle Trap",
+    "model": "Arezzo Round Matt Black Modern Basin Bottle Trap",
+    "price": "49.95",
+    "old_price": "0.00",
+    "image_url": "arezzo-round-matt-black.jpg",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      5
+    ],
+    "brands": [
+      4
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 56,
+  "fields": {
+    "created_date": "2019-07-26T12:53:26.812Z",
+    "modified_date": "2019-07-26T14:32:17.744Z",
+    "name": "Cotswold Oak Internal Cottage Door Unfinished",
+    "slug": "cotswold-oak-internal-cottage-door-unfinished",
+    "description": "Cotswold Oak Internal Cottage Door Unfinished",
+    "meta_description": "Cotswold Oak Internal Cottage Door Unfinished",
+    "meta_keywords": "Cotswold Oak Internal Cottage Door Unfinished",
+    "sku": "Cotswold Oak Internal Cottage Door Unfinished",
+    "model": "Cotswold Oak Internal Cottage Door Unfinished",
+    "price": "66.98",
+    "old_price": "0.00",
+    "image_url": "cotswold-oak-internal-cottage-door-unfinished.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      1
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 57,
+  "fields": {
+    "created_date": "2019-07-26T12:54:25.964Z",
+    "modified_date": "2019-07-26T14:31:58.737Z",
+    "name": "Code 25G FD30 Fire Door",
+    "slug": "code-25g-fd30-fire-door",
+    "description": "Code 25G FD30 Fire Door - Ply - GWPP - H2040xW926xD44mm",
+    "meta_description": "Code 25G FD30 Fire Door",
+    "meta_keywords": "Code 25G FD30 Fire Door",
+    "sku": "Code 25G FD30 Fire Door",
+    "model": "Code 25G FD30 Fire Door",
+    "price": "206.11",
+    "old_price": "0.00",
+    "image_url": "code-25g-fd30-fire-door.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 12,
+    "product_status": 0,
+    "categories": [
+      1
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 58,
+  "fields": {
+    "created_date": "2019-07-26T12:55:08.967Z",
+    "modified_date": "2019-07-26T14:31:38.186Z",
+    "name": "White Painted Pine Top Hung Roof Window",
+    "slug": "white-painted-pine-top-hung-roof-window",
+    "description": "VELUX GPL White Painted Pine Top Hung Roof Window",
+    "meta_description": "White Painted Pine Top Hung Roof Window",
+    "meta_keywords": "White Painted Pine Top Hung Roof Window",
+    "sku": "White Painted Pine Top Hung Roof Window",
+    "model": "White Painted Pine Top Hung Roof Window",
+    "price": "342.67",
+    "old_price": "0.00",
+    "image_url": "white-painted-pine-top-hung-roof-window.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 9,
+    "product_status": 0,
+    "categories": [
+      1
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 59,
+  "fields": {
+    "created_date": "2019-07-26T12:55:48.067Z",
+    "modified_date": "2019-07-26T14:31:16.796Z",
+    "name": "OAK 4-PANEL 35MM",
+    "slug": "oak-4-panel-35mm",
+    "description": "OAK 4-PANEL 35MM",
+    "meta_description": "OAK 4-PANEL 35MM",
+    "meta_keywords": "OAK 4-PANEL 35MM",
+    "sku": "OAK 4-PANEL 35MM",
+    "model": "OAK 4-PANEL 35MM",
+    "price": "98.10",
+    "old_price": "0.00",
+    "image_url": "oak-4-panel-35mm.JPG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 8,
+    "product_status": 0,
+    "categories": [
+      1
+    ],
+    "brands": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 60,
+  "fields": {
+    "created_date": "2019-07-26T12:56:56.358Z",
+    "modified_date": "2019-07-26T14:30:57.985Z",
+    "name": "Code 1G FD30 Fire Door",
+    "slug": "code-1g-fd30-fire-door",
+    "description": "Code 1G FD30 Fire Door - Ply - GWPP - H2040xW926xD44mm",
+    "meta_description": "Code 1G FD30 Fire Door",
+    "meta_keywords": "Code 1G FD30 Fire Door",
+    "sku": "Code 1G FD30 Fire Door",
+    "model": "Code 1G FD30 Fire Door",
+    "price": "202.10",
+    "old_price": "0.00",
+    "image_url": "code-1g-fd30-fire-door.PNG",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 7,
+    "product_status": 0,
+    "categories": [
+      1
+    ],
+    "brands": [
+      5
+    ]
+  }
+},
+{
+  "model": "catalogueapp.product",
+  "pk": 61,
+  "fields": {
+    "created_date": "2019-07-26T12:57:47.277Z",
+    "modified_date": "2019-07-26T17:21:53.216Z",
+    "name": "Code 20G FD30 Fire Door",
+    "slug": "code-20g-fd30-fire-door",
+    "description": "Code 20G FD30 Fire Door - Ply - GWPP - H1981xW711xD44mm",
+    "meta_description": "Code 20G FD30 Fire Door",
+    "meta_keywords": "Code 20G FD30 Fire Door",
+    "sku": "Code 20G FD30 Fire Door",
+    "model": "Code 20G FD30 Fire Door",
+    "price": "199.70",
+    "old_price": "0.00",
+    "image_url": "code-20g-fd30-fire-door.jpg",
+    "is_bestseller": false,
+    "is_featured": false,
+    "quantity": 11,
+    "product_status": 0,
+    "categories": [
+      1
+    ],
+    "brands": [
+      1
+    ]
+  }
+}
+]

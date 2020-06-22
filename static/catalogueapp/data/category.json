@@ -1,0 +1,114 @@
+[
+{
+  "model": "catalogueapp.category",
+  "pk": 1,
+  "fields": {
+    "created_date": "2019-07-26T10:07:28.168Z",
+    "modified_date": "2019-07-26T10:07:39.668Z",
+    "name": "Doors and Windows",
+    "slug": "doors-and-windows",
+    "description": "Doors and Windows",
+    "meta_description": "Doors and Windows",
+    "meta_keywords": "Doors and Windows",
+    "category_status": 0
+  }
+},
+{
+  "model": "catalogueapp.category",
+  "pk": 3,
+  "fields": {
+    "created_date": "2019-07-26T10:08:21.526Z",
+    "modified_date": "2019-07-26T11:43:08.277Z",
+    "name": "Ceiling Works",
+    "slug": "ceiling-works",
+    "description": "Ceiling Works",
+    "meta_description": "Ceiling Works",
+    "meta_keywords": "Ceiling Works",
+    "category_status": 0
+  }
+},
+{
+  "model": "catalogueapp.category",
+  "pk": 4,
+  "fields": {
+    "created_date": "2019-07-26T10:08:40.405Z",
+    "modified_date": "2019-07-26T11:40:21.514Z",
+    "name": "Electrical Works",
+    "slug": "electrical-works",
+    "description": "Electrical Works",
+    "meta_description": "Electrical Works",
+    "meta_keywords": "Electrical Works",
+    "category_status": 0
+  }
+},
+{
+  "model": "catalogueapp.category",
+  "pk": 5,
+  "fields": {
+    "created_date": "2019-07-26T10:09:17.753Z",
+    "modified_date": "2019-07-26T10:09:17.753Z",
+    "name": "Pipes and Fittings",
+    "slug": "pipes-and-fittings",
+    "description": "Pipes and Fittings",
+    "meta_description": "Pipes and Fittings",
+    "meta_keywords": "Pipes and Fittings",
+    "category_status": 0
+  }
+},
+{
+  "model": "catalogueapp.category",
+  "pk": 6,
+  "fields": {
+    "created_date": "2019-07-26T10:09:36.860Z",
+    "modified_date": "2019-07-26T10:09:36.860Z",
+    "name": "Basins",
+    "slug": "basins",
+    "description": "Basins",
+    "meta_description": "Basins",
+    "meta_keywords": "Basins",
+    "category_status": 0
+  }
+},
+{
+  "model": "catalogueapp.category",
+  "pk": 7,
+  "fields": {
+    "created_date": "2019-07-26T10:09:52.474Z",
+    "modified_date": "2019-07-26T10:09:52.474Z",
+    "name": "Baths",
+    "slug": "baths",
+    "description": "Baths",
+    "meta_description": "Baths",
+    "meta_keywords": "Baths",
+    "category_status": 0
+  }
+},
+{
+  "model": "catalogueapp.category",
+  "pk": 9,
+  "fields": {
+    "created_date": "2019-07-26T10:10:28.936Z",
+    "modified_date": "2019-07-26T11:39:25.472Z",
+    "name": "Painting Works",
+    "slug": "painting-works",
+    "description": "Painting Works",
+    "meta_description": "Painting Works",
+    "meta_keywords": "Painting Works",
+    "category_status": 0
+  }
+},
+{
+  "model": "catalogueapp.category",
+  "pk": 10,
+  "fields": {
+    "created_date": "2019-07-26T11:17:31.793Z",
+    "modified_date": "2019-07-26T11:44:03.322Z",
+    "name": "Tile Works",
+    "slug": "tile-works",
+    "description": "Tile Works",
+    "meta_description": "Tile Works",
+    "meta_keywords": "Tile Works",
+    "category_status": 0
+  }
+}
+]

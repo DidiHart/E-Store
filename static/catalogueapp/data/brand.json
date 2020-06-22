@@ -1,0 +1,72 @@
+[
+{
+  "model": "catalogueapp.brand",
+  "pk": 1,
+  "fields": {
+    "created_date": "2019-07-26T10:15:55.235Z",
+    "modified_date": "2019-07-26T10:15:55.235Z",
+    "name": "Sika Scofield",
+    "slug": "sika-scofield",
+    "description": "Sika Scofield",
+    "meta_description": "Sika Scofield",
+    "meta_keywords": "Sika Scofield",
+    "brand_status": 0
+  }
+},
+{
+  "model": "catalogueapp.brand",
+  "pk": 2,
+  "fields": {
+    "created_date": "2019-07-26T10:16:20.287Z",
+    "modified_date": "2019-07-26T10:16:20.287Z",
+    "name": "SpecChem",
+    "slug": "specchem",
+    "description": "SpecChem",
+    "meta_description": "SpecChem",
+    "meta_keywords": "SpecChem",
+    "brand_status": 0
+  }
+},
+{
+  "model": "catalogueapp.brand",
+  "pk": 3,
+  "fields": {
+    "created_date": "2019-07-26T10:16:36.398Z",
+    "modified_date": "2019-07-26T10:16:36.398Z",
+    "name": "AMICO",
+    "slug": "amico",
+    "description": "AMICO",
+    "meta_description": "AMICO",
+    "meta_keywords": "AMICO",
+    "brand_status": 0
+  }
+},
+{
+  "model": "catalogueapp.brand",
+  "pk": 4,
+  "fields": {
+    "created_date": "2019-07-26T10:16:51.100Z",
+    "modified_date": "2019-07-26T10:16:51.100Z",
+    "name": "ARDEX",
+    "slug": "ardex",
+    "description": "ARDEX",
+    "meta_description": "ARDEX",
+    "meta_keywords": "ARDEX",
+    "brand_status": 0
+  }
+},
+{
+  "model": "catalogueapp.brand",
+  "pk": 5,
+  "fields": {
+    "created_date": "2019-07-26T10:17:09.146Z",
+    "modified_date": "2019-07-26T10:27:52.186Z",
+    "name": "CertainTeed",
+    "slug": "certainteed",
+    "description": "CertainTeed",
+    "meta_description": "CertainTeed",
+    "meta_keywords": "CertainTeed",
+    "brand_status": 0
+  }
+}
+]
